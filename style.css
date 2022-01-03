@@ -64,8 +64,26 @@ text-align: justify;
      margin-left: 5%;
      margin-right: 5%;
      padding: 20px;
+     border-radius: 10px;
+      
 
  }
  .sue h1{
      font-size: 38px;
+ }
+ .Experiences{
+     background-image: url(images/exp-bg.png);
+     background-repeat: no-repeat;
+    
+ }
+ #fahu{
+    border-left: 10px solid rgb(247, 41, 5);
+ }
+ #farin{
+    border-left: 10px solid ;
+    border-image: linear-gradient(blue,cyan );
+    border-image-slice:1;
+ }
+ footer p{
+     text-align: center;
  }
