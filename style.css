@@ -53,3 +53,19 @@ text-align: justify;
     background-repeat: no-repeat;
     background-position: right;
  }
+
+ .second-half h6{
+     color: darkorange;
+     font-size: 20px;
+ }
+ .sue{
+     box-shadow: 10px 10px 30px gray;
+     width: 40%;
+     margin-left: 5%;
+     margin-right: 5%;
+     padding: 20px;
+
+ }
+ .sue h1{
+     font-size: 38px;
+ }
